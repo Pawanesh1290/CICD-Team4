@@ -109,7 +109,7 @@
           <version>2.19.1</version>
         </plugin> 
 		</plugins>
-		<finalName>hack-project</finalName>
+		<finalName>airline-image</finalName>
 	</build>
 
 </project>
